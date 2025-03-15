@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @songeun22
-- 👀 I’m interested in data analysis & machine learning
-- 🌱 I’m currently learning statistics & economics 
+- 👀 I’m interested in machine learning theory(especially optimization), and spatio-temporal analysis. 
+- 🌱 Currently undergraduate student in SNU Dept.Statistics! 
 - 📫 Contact me songeun22@snu.ac.kr
 
 <!---
